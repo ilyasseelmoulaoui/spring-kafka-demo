@@ -6,10 +6,7 @@
 
 
 
-
-
-![image](https://user-images.githubusercontent.com/62290643/210433663-a597fc63-e3ec-430a-9dd3-98eaa6407141.png)
-# Kafka supplier / Consumer demo
+# Kafka supplier - Consumer demo
 ![Kafka supplier demo](https://github.com/boumohamed/spring-kafka-demo/blob/main/demo/Kafka-supplier-demo.gif)
 # Pages visits analysis
 ![image](https://user-images.githubusercontent.com/62290643/212536599-1adc2990-ee70-4d16-83da-e69a02c89959.png)
