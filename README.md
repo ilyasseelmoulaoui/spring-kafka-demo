@@ -1,16 +1,10 @@
 # spring kafka demo
 ![image](https://user-images.githubusercontent.com/4341904/212947842-6a892cc1-eaac-4e61-9646-c038ee577436.png)
+![image](https://user-images.githubusercontent.com/4341904/212962025-481b704c-f700-48f3-86ba-c306fa42964b.png)
 
 
 
 
-
-
-
-
-
-
-![image](https://user-images.githubusercontent.com/62290643/210427168-56f4bfcb-e432-43f3-9af5-28c5f8a55fc7.png)
 ![image](https://user-images.githubusercontent.com/62290643/210433663-a597fc63-e3ec-430a-9dd3-98eaa6407141.png)
 # Kafka supplier / Consumer demo
 ![Kafka supplier demo](https://github.com/boumohamed/spring-kafka-demo/blob/main/demo/Kafka-supplier-demo.gif)
