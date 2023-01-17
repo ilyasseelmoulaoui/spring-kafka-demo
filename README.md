@@ -10,12 +10,6 @@
 ![kafka](https://user-images.githubusercontent.com/4341904/212970067-db0e7c4d-e875-408a-aaf8-377e7e941f01.gif)
 # Pages visits analysis
 ![image](https://user-images.githubusercontent.com/62290643/212536599-1adc2990-ee70-4d16-83da-e69a02c89959.png)
-# Pages visits analysis Rest
-![image](https://user-images.githubusercontent.com/62290643/212538987-f946f594-53b4-463b-915f-c0446e1ef6a8.png)
-
-# Pages visits analysis visualisation with smoothie js
-![Analytics](https://user-images.githubusercontent.com/62290643/212541038-a1359ef7-8123-485b-a185-01bc5c4ad13d.gif)
-
 
 
 
